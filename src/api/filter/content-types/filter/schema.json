@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "filters",
+  "info": {
+    "singularName": "filter",
+    "pluralName": "filters",
+    "displayName": "filters"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "category": {
+      "type": "uid"
+    }
+  }
+}
